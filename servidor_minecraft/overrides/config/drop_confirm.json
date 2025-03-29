@@ -1,0 +1,19 @@
+{
+	enabled: true,
+	playSounds: true,
+	treatAsWhitelist: true,
+	confirmationResetDelay: 1.0,
+	blacklistedItems: [
+		"cobblemon:pokedex_red",
+		"cobblemon:pokedex_blue",
+		"cobblemon:master_ball",
+		"sophisticatedbackpacks:backpack",
+		"sophisticatedbackpacks:copper_backpack",
+		"sophisticatedbackpacks:iron_backpack",
+		"sophisticatedbackpacks:gold_backpack",
+		"sophisticatedbackpacks:diamond_backpack",
+		"sophisticatedbackpacks:netherite_backpack",
+		"badgebox:badgesbox_ribbon",
+		"rctmod:trainer_card"
+	]
+}
